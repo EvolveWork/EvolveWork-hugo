@@ -1,6 +1,6 @@
-baseurl = "https://example.org/"
+baseurl = "http://AtomicKotlin.com"
 languageCode = "en-us"
-title = "Material Docs"
+title = "Learning Resources for the Kotlin Programming Language"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,17 +9,12 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	# author = "Bruce Eckel"
+	description = "Learning Resources for the Kotlin Programming Language"
 
-	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
-
-	version = "1.0.0"
-	logo = "images/logo.png"
-	favicon = ""
+	logo = "/images/circle.png"
+	favicon = "images/favicon.png"
+	banner_image = "/images/banner.png"
 
 	permalink = "#"
 
@@ -31,8 +26,11 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
-    	accent  = "teal"
+    	primary = "#18ADFB"
+    	accent  = "#18ADFB"
+    	header_color = "#18ADFB"
+    	footer_color = "#18ADFB"
+    	h1_ruler_color= "#18ADFB"
 
     [params.font]
     	text = "Ubuntu"
@@ -40,35 +38,39 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
-	email   = "hello@email.com"
-
-
-[[menu.main]]
-	name   = "Material"
-	url    = "/"
-	weight = 0
+	#twitter = ""
+	#github  = "AtomicKotlin/AtomicKotlin-hugo"
+	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
-	weight = 10
+  name   = "Atomic Kotlin"
+  url    = "atomickotlin/"
+  weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
-	weight = 20
+  name   = "Book Sample"
+  url    = "sample/"
+  weight = 20
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
-	weight = 30
+  name   = "Early Access"
+  url    = "earlyaccess/"
+  weight = 30
 
 [[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
+  name   = "Print Book"
+  url    = "printbook/"
+  weight = 40
+
+[[menu.main]]
+	name   = "Exercises"
+	url    = "exercises/"
+	weight = 70
+
+[[menu.main]]
+	name   = "About"
+	url    = "about/"
+	weight = 200
 
 
 [blackfriday]
