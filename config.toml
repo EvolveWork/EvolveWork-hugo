@@ -1,6 +1,6 @@
-baseurl = "http://AtomicKotlin.com"
+baseurl = ""
 languageCode = "en-us"
-title = "Learning Resources for the Kotlin Programming Language"
+title = "An Experimental, Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
 	# General information
 	# author = "Bruce Eckel"
-	description = "Learning Resources for the Kotlin Programming Language"
+	description = "An Experimental, Self-Managed, Shared Work Space"
 
 	logo = "/images/circle.png"
 	favicon = "images/favicon.png"
@@ -43,29 +43,29 @@ googleAnalytics = ""
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-  name   = "Atomic Kotlin"
-  url    = "atomickotlin/"
+  name   = "Evolve"
+  url    = "evolve/"
   weight = 10
 
-[[menu.main]]
-  name   = "Book Sample"
-  url    = "sample/"
-  weight = 20
-
-[[menu.main]]
-  name   = "Early Access"
-  url    = "earlyaccess/"
-  weight = 30
-
-[[menu.main]]
-  name   = "Print Book"
-  url    = "printbook/"
-  weight = 40
-
-[[menu.main]]
-	name   = "Exercises"
-	url    = "exercises/"
-	weight = 70
+# [[menu.main]]
+#   name   = "Book Sample"
+#   url    = "sample/"
+#   weight = 20
+#
+# [[menu.main]]
+#   name   = "Early Access"
+#   url    = "earlyaccess/"
+#   weight = 30
+#
+# [[menu.main]]
+#   name   = "Print Book"
+#   url    = "printbook/"
+#   weight = 40
+#
+# [[menu.main]]
+# 	name   = "Exercises"
+# 	url    = "exercises/"
+# 	weight = 70
 
 [[menu.main]]
 	name   = "About"
