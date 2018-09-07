@@ -12,6 +12,7 @@ The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
 <br>
+&nbsp;
 <br>
 
 <script type="text/javascript">

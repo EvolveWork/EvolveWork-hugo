@@ -8,7 +8,9 @@ weight: 200
 over 30 years: writing, giving lectures and seminars, and consulting. You can
 find out more at the site of his company,
 <a href="http://mindviewllc.com/" target="_blank">MindView</a>.
-
+<br>
+&nbsp;
+<br>
 <script type="text/javascript">
 //<![CDATA[
 <!--
