@@ -47,26 +47,6 @@ googleAnalytics = ""
   url    = "evolve/"
   weight = 10
 
-# [[menu.main]]
-#   name   = "Book Sample"
-#   url    = "sample/"
-#   weight = 20
-#
-# [[menu.main]]
-#   name   = "Early Access"
-#   url    = "earlyaccess/"
-#   weight = 30
-#
-# [[menu.main]]
-#   name   = "Print Book"
-#   url    = "printbook/"
-#   weight = 40
-#
-# [[menu.main]]
-# 	name   = "Exercises"
-# 	url    = "exercises/"
-# 	weight = 70
-
 [[menu.main]]
 	name   = "About"
 	url    = "about/"
