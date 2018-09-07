@@ -1,4 +1,4 @@
-baseurl = "https://evolvework.co"
+baseurl = "http://evolvework.co"
 languageCode = "en-us"
 title = "A Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
