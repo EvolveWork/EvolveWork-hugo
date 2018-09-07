@@ -1,6 +1,6 @@
 baseurl = "https://evolvework.co"
 languageCode = "en-us"
-title = "An Experimental, Self-Managed, Shared Work Space"
+title = "A Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
 	# General information
 	# author = "Bruce Eckel"
-	description = "An Experimental, Self-Managed, Shared Work Space"
+	description = "A Self-Managed, Shared Work Space"
 
 	logo = "/images/circle.png"
 	favicon = "images/favicon.png"
