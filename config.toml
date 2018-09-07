@@ -1,4 +1,4 @@
-baseurl = "https://serene-bartik-4a0b34.netlify.com"
+baseurl = "https://evolvework.co"
 languageCode = "en-us"
 title = "An Experimental, Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
