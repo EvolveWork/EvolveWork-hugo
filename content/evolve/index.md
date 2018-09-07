@@ -11,7 +11,8 @@ The East side is open now, and the West side will be available in October.
 The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
-<br/>
+<br>
+<br>
 
 <script type="text/javascript">
 //<![CDATA[

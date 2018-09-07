@@ -9,8 +9,6 @@ over 30 years: writing, giving lectures and seminars, and consulting. You can
 find out more at the site of his company,
 <a href="http://mindviewllc.com/" target="_blank">MindView</a>.
 
-<br/>
-
 <script type="text/javascript">
 //<![CDATA[
 <!--
@@ -33,8 +31,6 @@ while(x=eval(x));
 //-->
 //]]>
 </script>
-
-<br/>
 
 + This is a statically-generated site, built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
