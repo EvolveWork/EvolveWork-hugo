@@ -22,12 +22,7 @@ some construction and organizational inconveniences while we get going.
 + Two private offices available, and a sound-insulated conference room (currently under construction).
 + Although we will eventually have privacy booths for remote meetings,
 if your job entails a lot of phone time, it's probably not a good fit.
-
-<br>
-&nbsp;
-<br>
-
-<script type="text/javascript">
++ <script type="text/javascript">
 //<![CDATA[
 <!--
 var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
