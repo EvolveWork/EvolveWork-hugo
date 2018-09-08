@@ -11,6 +11,17 @@ The East side is open now, and the West side will be available in October.
 The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
+
++ Monthly memberships only. Memberships include 24/7 access.
++ A contract, including a code of conduct, is coming.
++ For security and safety, the space will have recorded video surveilance.
++ High-speed wireless via a fiber connection.
++ Well-behaved dogs are welcome.
++ Two separate spaces on the same floor.
++ Two private offices available, and a sound-insulated conference room (currently under construction).
++ Although we will eventually have privacy booths for remote meetings,
+if your job entails a lot of phone time, it's probably not a good fit.
+
 <br>
 &nbsp;
 <br>
