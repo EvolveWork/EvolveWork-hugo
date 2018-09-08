@@ -4,7 +4,7 @@ type: index
 weight: 10
 ---
 
-<p style="font-size:20px">111 Elk Ave, 2nd Floor, Crested Butte, Colorado</p>
+<p style="font-size:25px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
 **The East side is open now, and the West side will be available in October.**
 
