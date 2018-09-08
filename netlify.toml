@@ -1,0 +1,6 @@
+# Redirect default Netlify subdomain to primary domain
+
+[[redirects]]
+  from = "https://serene-bartik-4a0b34.netlify.com/*"
+  to = "https://www.evolvework.co/:splat"
+  status = 301
