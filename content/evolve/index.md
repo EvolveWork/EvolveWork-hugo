@@ -4,7 +4,7 @@ type: index
 weight: 10
 ---
 
-<p style="font-size:25px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
+<p style="font-size:23px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
 **The East side is open now, and the West side will be available in October.**
 
@@ -13,6 +13,7 @@ as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
 
 + Monthly memberships only. Memberships include 24/7 access.
++ Currently we use [Google Pay](https://pay.google.com/), but eventually we will have an auto-withdrawal system.
 + A contract, including a code of conduct, is coming.
 + For security and safety, the space will have recorded video surveilance.
 + High-speed wireless via a fiber connection.
