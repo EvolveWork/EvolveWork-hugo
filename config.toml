@@ -1,5 +1,5 @@
 # baseurl = "https://serene-bartik-4a0b34.netlify.com"
-baseurl = "/"
+baseurl = ""
 languageCode = "en-us"
 title = "A Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
