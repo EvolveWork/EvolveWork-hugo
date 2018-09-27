@@ -19,6 +19,7 @@ some construction and organizational inconveniences while we get going.
 + High-speed wireless via a fiber connection.
 + Well-behaved dogs are welcome.
 + Two separate spaces on the same floor.
++ Balcony overlooking Elk Avenue.
 + Two private offices available, and a sound-insulated conference room (currently under construction).
 + Although we will eventually have privacy booths for remote meetings,
 if your job entails a lot of phone time, it's probably not a good fit.
