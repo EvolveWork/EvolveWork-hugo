@@ -1,4 +1,4 @@
-baseurl = "https://EvolveWork.netlify.com"
+baseurl = "https://www.EvolveWork.com"
 languageCode = "en-us"
 title = "A Self-Managed, Shared Work Space"
 theme = "hugo-material-docs"
