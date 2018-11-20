@@ -17,7 +17,8 @@ The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
 some construction and organizational inconveniences while we get going.
 
-+ Monthly memberships only. Memberships include 24/7 access.
++ Monthly memberships only. Memberships include 24/7 access via electronic
+locks connected to your smart phone.
 + Currently we use [Google Pay](https://pay.google.com/), but eventually we will have an auto-withdrawal system.
 + A contract, including a code of conduct, is coming.
 + For security and safety, the space will have recorded video surveilance.
