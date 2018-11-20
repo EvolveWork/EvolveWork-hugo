@@ -6,7 +6,13 @@ weight: 10
 
 <p style="font-size:23px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
-**The East side is open now, and the West side will be available in October.**
+Join us for a shared work experience, right on Elk Avenue in the heart of
+Crested Butte, in the midst of restaurants and coffee shops, with a balcony and
+views of the avenue. We provide a quiet environment (headphones suggested) and
+well-behaved dogs are welcome. There are spaces available for remote meetings,
+a conference room and two private offices. We have high-speed fiber wireless,
+comfortable office chairs, desks and couches. We are located at 111 Elk, 2nd
+floor, and you can find further information at www.EvolveWork.co.
 
 The first 10 memberships for open (not reserved) desks are $150/month for
 as long as you maintain your membership, in exchange for putting up with
