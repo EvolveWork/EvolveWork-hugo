@@ -48,10 +48,14 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-	name   = "About"
-	url    = "about/"
-	weight = 200
+  name   = "About"
+  url    = "about/"
+  weight = 200
 
+[[menu.main]]
+	name   = "Articles"
+	url    = "articles/"
+	weight = 300
 
 [blackfriday]
 	smartypants	= true
