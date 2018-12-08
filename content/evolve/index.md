@@ -13,13 +13,13 @@ well-behaved dogs are welcome. There are spaces available for remote meetings,
 a conference room and two private offices. We have high-speed fiber wireless,
 comfortable office chairs, desks and couches.
 
-#### Open Desks: $200/month
+### Open Desks: $200/month
 
-#### Dedicated Desks: $300/month
+### Dedicated Desks: $300/month
 
-#### This is a self-managed workspace. There will be some organizational inconveniences as we develop ourselves.
+### This is a self-managed workspace. There will be some organizational inconveniences as we develop ourselves.
 
-#### Althought much of the construction is nearly complete, there will still be further improvements as contractors become available.
+### Althought much of the construction is nearly complete, there will still be further improvements as contractors become available.
 
 + Monthly memberships only. Memberships include 24/7 access via electronic
 locks connected to your smart phone.
