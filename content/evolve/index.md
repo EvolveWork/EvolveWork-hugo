@@ -20,8 +20,8 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
-+ Monthly memberships only. We might eventually figure out how to do drop-ins but
-right now the required managment overhead prevents it.
++ Monthly memberships only (We might eventually figure out how to do drop-ins but
+right now the required managment overhead prevents it).
 + Memberships include 24/7 access via electronic locks connected to your smart phone.
 + Invoicing is automatic and you may set up automatic payments as well.
 + A contract, including a code of conduct, is coming.
