@@ -9,9 +9,8 @@ weight: 10
 Join us for a shared work experience, right on Elk Avenue in the heart of
 Crested Butte, in the midst of restaurants and coffee shops, with a balcony and
 views of the avenue. We provide a quiet environment (headphones suggested) and
-well-behaved dogs are welcome. There are spaces available for remote meetings,
-a conference room and two private offices. We have high-speed fiber wireless,
-comfortable office chairs, desks and couches.
+well-behaved dogs are welcome. There are two conference rooms, high-speed fiber
+wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### Open Desks: $200/month
 
@@ -19,20 +18,21 @@ comfortable office chairs, desks and couches.
 
 ### This is a self-managed workspace. There will be some organizational inconveniences as we develop ourselves.
 
-### Althought much of the construction is nearly complete, there will still be further improvements as contractors become available.
+### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
-+ Monthly memberships only. Memberships include 24/7 access via electronic
-locks connected to your smart phone.
-+ Currently we use [Google Pay](https://pay.google.com/), but eventually we will have an auto-withdrawal system.
++ Monthly memberships only. We might eventually figure out how to do drop-ins but
+right now the required managment overhead prevents it.
++ Memberships include 24/7 access via electronic locks connected to your smart phone.
++ Invoicing is automatic and you may set up automatic payments as well.
 + A contract, including a code of conduct, is coming.
-+ For security and safety, the space will have recorded video surveilance.
++ For security and safety, the space has recorded video surveilance.
 + High-speed wireless via a fiber connection.
 + Well-behaved dogs are welcome.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
-+ Two private offices available, and a sound-insulated conference room (currently under construction).
-+ Although we will eventually have privacy booths for remote meetings,
-if your job entails a lot of phone time, it's probably not a good fit.
++ Two conference rooms. If no one has reserved them, you may work or make calls from these.
++ The balcony and connecting hallway can also be used to make calls.
++ If your job entails a lot of phone time, it's probably not a good fit.
 + <script type="text/javascript">
 //<![CDATA[
 <!--
