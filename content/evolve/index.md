@@ -20,7 +20,7 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
-### Sound & Phone Use
+## Sound & Phone Use
 
 An important part of coworking is being around other people and having
 interesting conversations. We certainly want to encourage this, but in a way
@@ -48,7 +48,7 @@ calls:
 + The balcony
 + The hallway between the two spaces
 
-### Details
+## Details
 
 + Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly).
 + Memberships include 24/7 access via electronic locks connected to your smart phone.
