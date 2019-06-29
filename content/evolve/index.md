@@ -20,19 +20,48 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
-+ Monthly memberships only (We might eventually figure out how to do drop-ins but
-right now the required managment overhead prevents it).
+### Sound & Phone Use
+
+An important part of coworking is being around other people and having
+interesting conversations. We certainly want to encourage this, but in a way
+that doesn't prevent focus when you need it.
+
+If your job is nothing but taking and making phone calls or remote meetings,
+it's not a good fit.
+
+Of course, people do need to sometimes have calls or remote meetings. The
+primary concern is intrusiveness. We have people that do regular video
+conferencing from their desks. This isn't intrusive because they wear headsets
+and can be relatively quiet without impacting their meeting.
+
+Headphones (noise-cancelling if you're sensitive) are an excellent addition to
+your coworking kit. Not only will they exclude sound, they indicate to others
+that you're "in the zone" and would prefer to be left alone. Even better is a
+headset with a built-in microphone.
+
+If you think a call will be intrusive, we have spaces that can be used for such
+calls:
+
++ A small conference room
++ A training room
++ Another room
++ The balcony
++ The hallway between the two spaces
+
+### Details
+
++ Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly).
 + Memberships include 24/7 access via electronic locks connected to your smart phone.
 + Invoicing is automatic and you may set up automatic payments as well.
 + A contract, including a code of conduct, is coming.
 + For security and safety, the space has recorded video surveilance.
-+ High-speed wireless via a fiber connection.
++ High-speed wireless via a fiber connection. 100 Mbs/s both ways, and we can increase the speed when
+it becomes necessary. So far everyone is happy with the speed.
 + Well-behaved dogs are welcome.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
 + Two conference rooms. If no one has reserved them, you may work or make calls from these.
 + The balcony and connecting hallway can also be used to make calls.
-+ If your job entails a lot of phone time, it's probably not a good fit.
 + <script type="text/javascript">
 //<![CDATA[
 <!--
