@@ -34,7 +34,7 @@ primary concern is intrusiveness. We have people that do regular video
 conferencing from their desks. This isn't intrusive because they wear headsets
 and can be relatively quiet without impacting their meeting.
 
-Headphones (noise-cancelling if you're sensitive) are an excellent addition to
+Headphones (noise-cancelling if you're sensitive) are a recommended addition to
 your coworking kit. Not only will they exclude sound, they indicate to others
 that you're "in the zone" and would prefer to be left alone. Even better is a
 headset with a built-in microphone.
