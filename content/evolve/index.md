@@ -50,13 +50,15 @@ calls:
 
 ## Details
 
-+ Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly).
++ Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly). Minimum one-month registration.
 + Memberships include 24/7 access via electronic locks connected to your smart phone.
 + Invoicing is automatic and you may set up automatic payments as well.
 + A contract, including a code of conduct, is coming.
 + For security and safety, the space has recorded video surveilance.
-+ High-speed wireless via a fiber connection. 100 Mbs/s both ways, and we can increase the speed when
++ High-speed wireless via a fiber connection via Internet Colorado. 100 Mbs/s both ways, and we can increase the speed when
 it becomes necessary. So far everyone is happy with the speed.
++ For internet security, we recommend using a Virtual Private Network (VPN) such as
+  <a href="https://protonvpn.com/" target="_blank" rel="noopener noreferrer">Proton VPN</a>.
 + Well-behaved dogs are welcome.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
