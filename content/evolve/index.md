@@ -48,6 +48,9 @@ calls:
 + The balcony
 + The hallway between the two spaces
 
+Noise complaints will be taken seriously. Disturbance is something I want to be
+careful about, to make sure everyone has a good experience.
+
 ## Details
 
 + Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly). Minimum one-month registration.
