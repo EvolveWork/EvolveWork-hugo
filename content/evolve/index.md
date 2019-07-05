@@ -75,7 +75,6 @@ it becomes necessary. So far everyone is happy with the speed.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
 + Two conference rooms. If no one has reserved them, you may work or make calls from these.
-+ The balcony and connecting hallway can also be used to make calls.
 + <script type="text/javascript">
 //<![CDATA[
 <!--
