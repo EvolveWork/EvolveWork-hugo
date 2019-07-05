@@ -22,14 +22,14 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## Monthly Memberships Only
 
+This is a non-traditional co-working space and is predominantly self managed,
+so we don't have a staff person to handle drop-ins. There are several coffee
+shops in town that provide internet if that's all you need. Octopus, at the
+West end of Elk (the next block up from Evolve), tends to be fairly open and
+usually has a significant amount of available space.
+
 We bill month-to-month, so you can choose to rent for a single month, but that
 is the minimum.
-
-This are a non-traditional co-working space which is predominantly self
-managed, so we don't have a staff person to handle drop-ins. There are several
-coffee shops in town that provide internet if that's all you need. Octopus, at
-the West end of Elk, tends to be fairly open and usually has a significant
-amount of available space.
 
 ## Sound & Phone Use
 
@@ -38,7 +38,9 @@ interesting conversations. We certainly want to encourage this, but in a way
 that doesn't prevent focus when you need it.
 
 If your job is nothing but taking and making phone calls or remote meetings,
-it's not a good fit.
+it's not a good fit. Noise complaints will be taken seriously. Disturbance is
+something I want to be careful about, to make sure everyone has a good
+experience.
 
 Of course, people do need to sometimes have calls or remote meetings. The
 primary concern is intrusiveness. We have people that do regular video
@@ -58,9 +60,6 @@ calls:
 + Another room
 + The balcony
 + The hallway between the two spaces
-
-Noise complaints will be taken seriously. Disturbance is something I want to be
-careful about, to make sure everyone has a good experience.
 
 ## Details
 
