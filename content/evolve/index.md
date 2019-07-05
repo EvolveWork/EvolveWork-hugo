@@ -20,6 +20,17 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
+## Monthly Memberships Only
+
+We bill month-to-month, so you can choose to rent for a single month, but that
+is the minimum.
+
+This are a non-traditional co-working space which is predominantly self
+managed, so we don't have a staff person to handle drop-ins. There are several
+coffee shops in town that provide internet if that's all you need. Octopus, at
+the West end of Elk, tends to be fairly open and usually has a significant
+amount of available space.
+
 ## Sound & Phone Use
 
 An important part of coworking is being around other people and having
@@ -53,7 +64,6 @@ careful about, to make sure everyone has a good experience.
 
 ## Details
 
-+ Monthly memberships only (I'm trying to minimize management overhead, so until I can figure out a hands-off way to do daily memberships, it's only monthly). Minimum one-month registration.
 + Memberships include 24/7 access via electronic locks connected to your smart phone.
 + Invoicing is automatic and you may set up automatic payments as well.
 + A contract, including a code of conduct, is coming.
