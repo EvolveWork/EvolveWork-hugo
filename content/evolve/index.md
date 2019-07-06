@@ -38,7 +38,7 @@ interesting conversations. We certainly want to encourage this, but in a way
 that doesn't prevent focus when you need it.
 
 If your job is nothing but taking and making phone calls or remote meetings,
-it's not a good fit. Noise complaints will be taken seriously. Disturbance is
+it's not a good fit. Noise complaints are taken seriously. Disturbance is
 something I want to be careful about, to make sure everyone has a good
 experience.
 
@@ -63,15 +63,15 @@ calls:
 
 ## Details
 
-+ Memberships include 24/7 access via electronic locks connected to your smart phone.
-+ Invoicing is automatic and you may set up automatic payments as well.
-+ A contract, including a code of conduct, is coming.
-+ For security and safety, the space has recorded video surveilance.
 + High-speed wireless via a fiber connection via Internet Colorado. 100 Mbs/s both ways, and we can increase the speed when
 it becomes necessary. So far everyone is happy with the speed.
++ Memberships include 24/7 access via electronic locks connected to your smart phone.
++ For security and safety, the space has recorded video surveilance.
++ Invoicing is automatic and you may set up automatic payments as well.
++ Well-behaved dogs are welcome.
++ A contract, including a code of conduct, is coming.
 + For internet security, we recommend using a Virtual Private Network (VPN) such as
   <a href="https://protonvpn.com/" target="_blank" rel="noopener noreferrer">Proton VPN</a>.
-+ Well-behaved dogs are welcome.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
 + Two conference rooms. If no one has reserved them, you may work or make calls from these.
