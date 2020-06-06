@@ -51,7 +51,8 @@ and can be relatively quiet without impacting their meeting.
 Headphones (noise-cancelling if you're sensitive) are a recommended addition to
 your coworking kit. Not only will they exclude sound, they indicate to others
 that you're "in the zone" and would prefer to be left alone. Even better is a
-headset with a built-in microphone.
+headset with a built-in microphone (I am a fan of Logitech headsets for quality
+and price).
 
 If you think a call will be intrusive, we have spaces that can be used for such
 calls:
