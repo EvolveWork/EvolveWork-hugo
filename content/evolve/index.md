@@ -28,8 +28,9 @@ This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
 shops in town that provide internet if that's all you need.
 
-Billing is month-to-month, per person. You can choose to rent for a single
-month even if you are only going to be there for part of a month.
+Billing is month-to-month, per person. Our minimum is one month. You can choose
+to rent for a single month even if you are only going to be there for part of a
+month.
 
 ## Sound & Phone Use
 
