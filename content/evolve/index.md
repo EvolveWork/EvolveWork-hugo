@@ -26,12 +26,10 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
-shops in town that provide internet if that's all you need. Octopus, at the
-West end of Elk (the next block up from Evolve), tends to be fairly open and
-usually has a significant amount of available space.
+shops in town that provide internet if that's all you need.
 
-We bill month-to-month, so you can choose to rent for a single month, but that
-is the minimum.
+Billing is month-to-month, per person. You can choose to rent for a single
+month even if you are only going to be there for part of a month.
 
 ## Sound & Phone Use
 
