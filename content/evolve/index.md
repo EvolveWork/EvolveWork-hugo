@@ -14,23 +14,29 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
 
+### We are only set up for monthly memberships (see below).
+
 ### Open Desks: $200/month
 
 ### Dedicated Desks: $300/month
 
 ### This is a self-managed workspace. There will be some organizational inconveniences as we develop ourselves.
 
+### Please respect others in the space (See the note about Sound, below).
+
+### Please lock the door when you leave if no one else is on your side.
+
 ### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
 ## Monthly Memberships Only
 
+Billing is month-to-month, per person. Our minimum is one month (The cost of
+having a manager to take care of shorter times would not make sense). We do
+have people that come in for shorter times but they still pay for a month.
+
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
 shops in town that provide internet if that's all you need.
-
-Billing is month-to-month, per person. Our minimum is one month. You can choose
-to rent for a single month even if you are only going to be there for part of a
-month.
 
 ## Sound & Phone Use
 
