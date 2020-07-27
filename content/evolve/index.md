@@ -26,7 +26,6 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### Please lock the door when you leave if no one else is on your side.
 
-### There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
 ## Monthly Memberships Only
 
@@ -83,6 +82,7 @@ it becomes necessary. So far everyone is happy with the speed.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
 + Two conference rooms. If no one has reserved them, you may work or make calls from these.
++ There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 + <script type="text/javascript">
 //<![CDATA[
 <!--
