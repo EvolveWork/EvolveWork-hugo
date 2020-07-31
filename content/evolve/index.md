@@ -28,9 +28,9 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## Monthly Memberships Only
 
-Billing is month-to-month, per person. Our minimum is one month (The cost of
-having a manager to take care of shorter times would not make sense). We do
-have people that come in for shorter times but they still pay for a month.
+Billing is month-to-month, per person. Our minimum is one month (The overhead
+of managing shorter times would not make sense for us). We do have people that
+come in for shorter times but they still pay for a month.
 
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
