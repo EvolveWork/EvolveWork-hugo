@@ -6,13 +6,13 @@ weight: 10
 
 <p style="font-size:23px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
+## [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
+
 Join us in the heart of Crested Butte for a shared work experience. Located on
 Elk Avenue in the midst of restaurants and coffee shops, with a balcony and
 views of the avenue. We provide a quiet environment (headphones suggested) and
 well-behaved dogs are welcome. There are two conference rooms, high-speed fiber
 wireless, comfortable Aeron-style office chairs, desks and couches.
-
-### [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
 
 ### We do not have day passes&mdash;we are only set up for monthly memberships (see below).
 
