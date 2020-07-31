@@ -34,10 +34,8 @@ come in for shorter times but they still pay for a month.
 
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
-shops in town that provide internet if that's all you need.
-
-If you really need just a day, you might find that one of the local hotels will
-serve your needs.
+shops in town that provide internet if that's all you need. If you need a
+closed space, you might find one of the local hotels will serve your needs.
 
 ## Sound & Phone Use
 
@@ -69,7 +67,7 @@ calls:
 + A training room
 + Another room
 + The balcony
-+ The hallway between the two spaces
++ The hallway between the two spaces (you can take a chair out there)
 
 ## Details
 
