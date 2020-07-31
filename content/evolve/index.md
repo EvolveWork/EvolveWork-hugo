@@ -12,9 +12,9 @@ views of the avenue. We provide a quiet environment (headphones suggested) and
 well-behaved dogs are welcome. There are two conference rooms, high-speed fiber
 wireless, comfortable Aeron-style office chairs, desks and couches.
 
-## [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
+### [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
 
-### We are only set up for monthly memberships (see below).
+### We do not have day passes&mdash;we are only set up for monthly memberships (see below).
 
 ### Open Desks: $200/month
 
@@ -26,7 +26,6 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### Please lock the door when you leave if no one else is on your side.
 
-
 ## Monthly Memberships Only
 
 Billing is month-to-month, per person. Our minimum is one month (The cost of
@@ -36,6 +35,9 @@ have people that come in for shorter times but they still pay for a month.
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
 shops in town that provide internet if that's all you need.
+
+If you really need just a day, you might find that one of the local hotels will
+serve your needs.
 
 ## Sound & Phone Use
 
