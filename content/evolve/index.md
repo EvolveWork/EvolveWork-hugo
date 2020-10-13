@@ -16,6 +16,8 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### We do not have day passes&mdash;we are only set up for monthly memberships (see below).
 
+#### (We don't have a concierge which would be necessary to manage short-term visitors).
+
 ### Open Desks: $200/month
 
 ### Dedicated Desks: $300/month
