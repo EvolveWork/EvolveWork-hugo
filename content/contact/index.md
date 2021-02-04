@@ -1,5 +1,5 @@
 ---
-title: About
+title: Contact Us
 weight: 20
 ---
 
