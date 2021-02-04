@@ -14,7 +14,7 @@ handle drop-ins.
 There are several coffee shops in town that provide internet if that's all you
 need. If you need a closed space for a short time, you might find one of the
 local hotels will serve your needs.
-<br/>
+<br/>&nbsp;<br/>
 
 <script type="text/javascript">
 //<![CDATA[
