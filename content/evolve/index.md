@@ -79,7 +79,8 @@ calls:
 
 + High-speed wireless via a fiber connection via Internet Colorado. 100 Mbs/s
   both ways, and we can increase the speed when it becomes necessary. So far
-  everyone is happy with the speed.
+  everyone is happy with the speed. They are currently upgrading the system
+  so it is more resilient against outages.
 + Memberships include 24/7 access via electronic locks connected to your smart
   phone.
 + For security and safety, the space has recorded video surveilance.
