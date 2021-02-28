@@ -16,12 +16,12 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ### We only have monthly memberships (see below). *We don't have a concierge which would be necessary to manage shorter-term visitors*.
 
-### Open Desk (Choose any available non-dedicated desk for the day)
+## Open Desk (Choose any available non-dedicated desk for that day)
 
 - On-season $300/month: If you begin your membership in May-September.
 - Off-season $200/month: If you begin your membership any months except May-September. On-season members revert to this price in off-season.
 
-### Dedicated Desk
+## Dedicated Desk
 
 - On-season $400/month: If you begin your membership in May-September.
 - Off-season $300/month: If you begin your membership any months except May-September. On-season members revert to this price in off-season.
