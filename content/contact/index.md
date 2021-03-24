@@ -6,13 +6,16 @@ weight: 20
 ### We only have monthly memberships. *We don't have a concierge which would be necessary to manage shorter-term visitors*.
 
 Billing is month-to-month, per person. You are welcome to use the space for
-shorter times but the mimimum fee is for one month. (The overhead of managing
+shorter times but the minimum fee is for one month. (The overhead of managing
 shorter times does not make sense for us). This is a non-traditional co-working
 space and is predominantly self managed, so we don't have a staff person to
 handle drop-ins.
 
+You may begin any day of the month, and you will be automatically billed on that
+day each month.
+
 There are several coffee shops in town that provide internet if that's all you
-need. If you need a closed space for a short time, you might find one of the
+need. If you want a closed space for a short time, you might find one of the
 local hotels will serve your needs.
 <br/>&nbsp;<br/>
 
