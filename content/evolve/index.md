@@ -19,12 +19,12 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 ## Open Desk (Each day, choose any available non-dedicated desk)
 
 - High-season $300/month: If you begin your membership in May-September.
-- Off-season $200/month: If you begin your membership any months except May-September. High-season members revert to this price in off-season.
+- Off-season $200/month: If you begin your membership any months except May-September. High-season members revert to this price in off-season, for as long as their membership is continuous.
 
 ## Dedicated Desk
 
 - High-season $400/month: If you begin your membership in May-September.
-- Off-season $300/month: If you begin your membership any months except May-September. High-season members revert to this price in off-season.
+- Off-season $300/month: If you begin your membership any months except May-September. High-season members revert to this price in off-season, for as long as their membership is continuous.
 
 ### This is a self-managed workspace. There will be some organizational inconveniences as we develop ourselves.
 
