@@ -5,6 +5,8 @@ weight: 20
 
 ### We only have monthly memberships. *We don't have a concierge which would be necessary to manage shorter-term visitors*.
 
+> ***Anyone Entering the Space Must Be Vaccinated***
+
 Billing is month-to-month, per person. You are welcome to use the space for
 shorter times but the minimum fee is for one month. (The overhead of managing
 shorter times does not make sense for us). This is a non-traditional co-working
