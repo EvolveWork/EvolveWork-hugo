@@ -93,8 +93,22 @@ calls:
   <a href="https://protonvpn.com/" target="_blank" rel="noopener noreferrer">Proton VPN</a>.
 + Two separate spaces on the same floor.
 + Balcony overlooking Elk Avenue.
-+ Two conference rooms. If no one has reserved them, you may work or make calls from these.
++ Three conference rooms. If no one has reserved them, you may work or make calls from these.
 + Recently rebuilt bathrooms.
 + There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
+
+## Renting Conference Rooms
+
+If you want a private office with a door that closes, there are three conference rooms
+that are sometimes available for monthly rental:
+
+1.  West side corner (two windows). Starting in May-September, $800/month; off-season,
+    $600/month.
+
+2.  West side middle (no windows). Starting in May-September, $600/month; off-season,
+    $400/month.
+
+3.  East side training room (largest, one window). Starting in May-September,
+    $1100/month; off-season, $900/month.
 
 ## [Contact Us](https://www.evolvework.co/contact/)
