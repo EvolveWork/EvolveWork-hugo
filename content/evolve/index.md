@@ -6,7 +6,7 @@ weight: 10
 
 <p style="font-size:23px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
-> ***Anyone Entering the Space Must Be Vaccinated***
+> ***Anyone Entering the Space Must Be Fully Vaccinated & Boosted***
 
 ## [Some Photos](https://www.instagram.com/evolve.crestedbutte/)
 
