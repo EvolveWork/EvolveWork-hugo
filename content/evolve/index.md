@@ -71,9 +71,8 @@ one](https://smile.amazon.com/gp/product/B000UXZQ42/ref=ppx_yo_dt_b_asin_title_o
 If you think a call will be intrusive, we have spaces that can be used for such
 calls:
 
-+ A small conference room
-+ A training room
-+ Another room
++ Two smaller conference rooms
++ A larger training room
 + The balcony
 + The hallway between the two spaces (you can take a chair out there)
 
