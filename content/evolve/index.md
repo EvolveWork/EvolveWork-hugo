@@ -16,7 +16,9 @@ views of the avenue. We provide a quiet environment (headphones suggested) and
 well-behaved dogs are welcome. There are two conference rooms, high-speed fiber
 wireless, comfortable Aeron-style office chairs, desks and couches.
 
-### We only have monthly memberships (see below). *We don't have a concierge which would be necessary to manage shorter-term visitors*.
+## We Only Have Monthly Memberships
+
+Details [here](https://www.evolvework.co/evolve/#monthly-memberships-only).
 
 ## Open Desk (Each day, choose any available non-dedicated desk)
 
@@ -59,12 +61,13 @@ experience.
 Of course, people do need to sometimes have calls or remote meetings. The
 primary concern is intrusiveness. We have people that do regular video
 conferencing from their desks. This isn't intrusive because they wear headsets
-and can be relatively quiet without impacting their meeting.
+(with built-in microphones right in front of the mouth) and can be relatively
+quiet without impacting their meeting.
 
 Headphones (noise-cancelling if you're sensitive) are a recommended addition to
 your coworking kit. Not only will they exclude sound, they indicate to others
 that you're "in the zone" and would prefer to be left alone. The safest choice
-to ensure you  don't disturb others is a headset with a built-in microphone on
+to ensure you don't disturb others is a headset with a built-in microphone on
 a stem directly in front of your mouth, like [this
 one](https://smile.amazon.com/gp/product/B000UXZQ42/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
 
