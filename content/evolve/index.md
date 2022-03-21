@@ -38,13 +38,13 @@ You can rent for a single month. Details [here](https://www.evolvework.co/evolve
 
 ## Monthly Memberships Only
 
-Billing is month-to-month, per person. Our minimum is one month (The overhead
-of managing shorter times would not make sense for us). We do have people that
-come in for shorter times but they still pay for a month.
+Billing is month-to-month, per person. Our minimum is one month (The overhead of
+managing shorter times does not make sense for us). People come in for shorter
+times but they still pay for a month.
 
 This is a non-traditional co-working space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
-shops in town that provide internet if that's all you need. If you need a
+shops in town that provide internet if that's all you need. If you want a
 closed space, you might find one of the local hotels will serve your needs.
 
 ## Sound & Phone Use
