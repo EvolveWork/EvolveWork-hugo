@@ -18,7 +18,7 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## We Only Have Monthly Memberships
 
-Details [here](https://www.evolvework.co/evolve/#monthly-memberships-only).
+You can rent for a single month. Details [here](https://www.evolvework.co/evolve/#monthly-memberships-only).
 
 ## Open Desk (Each day, choose any available non-dedicated desk)
 
