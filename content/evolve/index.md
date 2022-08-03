@@ -1,5 +1,5 @@
 ---
-title: Evolve: A Self-Managed, Monthly-Only, Shared Work Space
+title: Evolve, A Self-Managed, Monthly-Only, Shared Work Space
 type: index
 weight: 10
 ---

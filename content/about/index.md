@@ -13,6 +13,6 @@ find out more at the site of his company,
 
 + This is a statically-generated site, built with
 <a href="https://www.gohugo.io" target="_blank">Hugo</a>, using a theme derived from
-<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>.
+<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a>. Hosted on [Netlify](https://www.netlify.com/).
 
 + Graphics by <a href="http://www.Will-Harris.com">Daniel Will-Harris</a>
