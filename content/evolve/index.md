@@ -4,6 +4,8 @@ type: index
 weight: 10
 ---
 
+### A Self-Managed, Monthly-Only, Shared Work Space
+
 <p style="font-size:23px">111 Elk Ave 2nd Floor, Crested Butte, Colorado</p>
 
 > ***Anyone Entering the Space Must Be Fully Vaccinated & Boosted***
