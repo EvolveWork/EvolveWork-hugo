@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Evolve -- A Self-Managed, Monthly-Only, Shared Work Space
 weight: 200
 ---
 

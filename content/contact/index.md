@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact Evolve -- A Self-Managed, Monthly-Only, Shared Work Space
 weight: 20
 ---
 

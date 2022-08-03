@@ -18,7 +18,7 @@ wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## We Only Have Monthly Memberships
 
-You can rent for a single month. Details [here](https://www.evolvework.co/evolve/#monthly-memberships-only).
+You can rent for a single month, starting on any day. Details [here](https://www.evolvework.co/evolve/#monthly-memberships-only).
 
 ## Open Desk (Each day, choose any available non-dedicated desk)
 
@@ -40,16 +40,16 @@ You can rent for a single month. Details [here](https://www.evolvework.co/evolve
 
 Billing is month-to-month, per person. Our minimum is one month (The overhead of
 managing shorter times does not make sense for us). People come in for shorter
-times but they still pay for a month.
+times but they still pay for a month. You can start your membership on any day.
 
-This is a non-traditional co-working space and is predominantly self managed,
+This is a non-traditional space and is predominantly self managed,
 so we don't have a staff person to handle drop-ins. There are several coffee
 shops in town that provide internet if that's all you need. If you want a
 closed space, you might find one of the local hotels will serve your needs.
 
 ## Sound & Phone Use
 
-An important part of coworking is being around other people and having
+An important part of a shared work space is being around other people and having
 interesting conversations. We certainly want to encourage this, but in a way
 that doesn't prevent focus when you need it.
 
@@ -65,7 +65,7 @@ conferencing from their desks. This isn't intrusive because they wear headsets
 quiet without impacting their meeting.
 
 Headphones (noise-cancelling if you're sensitive) are a recommended addition to
-your coworking kit. Not only will they exclude sound, they indicate to others
+your kit. Not only will they exclude sound, they indicate to others
 that you're "in the zone" and would prefer to be left alone. The safest choice
 to ensure you don't disturb others is a headset with a built-in microphone on
 a stem directly in front of your mouth, like [this
