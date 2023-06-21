@@ -34,7 +34,7 @@ You can rent for a single month, starting on any day. Details [here](https://www
 
 ### Please respect others in the space (See the note about Sound, below).
 
-### Please lock the door when you leave if no one else is on your side.
+### Please turn off the heat & lock the door when you leave if no one else is on your side.
 
 ## Monthly Memberships Only
 
@@ -83,8 +83,8 @@ calls:
 
 + High-speed wireless via a fiber connection via Internet Colorado. 100 Mbs/s
   both ways, and we can increase the speed when it becomes necessary. So far
-  everyone is happy with the speed. They are currently upgrading the system
-  so it is more resilient against outages.
+  everyone is happy with the speed. The system has been upgraded to make it
+  more resilient against outages.
 + Memberships include 24/7 access via electronic locks connected to your smart
   phone.
 + For security and safety, the space has recorded video surveilance.
@@ -97,7 +97,6 @@ calls:
 + Balcony overlooking Elk Avenue.
 + Three conference rooms. If no one has reserved them, you may work or make calls from these.
 + Recently rebuilt bathrooms.
-+ There will be some isolated periodic construction (mostly paint work) as I continue to improve the space.
 
 ## Renting Conference Rooms
 
@@ -107,7 +106,7 @@ that are sometimes available for monthly rental:
 1.  ~~West side corner (two windows). Starting in May-September, $800/month; off-season,
     $600/month.~~ (currently rented long-term).
 
-2.  West side middle (no windows). Starting in May-September, $600/month; off-season,
+2.  West side middle (no windows). 8.5' x 10.5'. Starting in May-September, $600/month; off-season,
     $400/month.
 
 3.  East side training room (largest, one window). Starting in May-September,
