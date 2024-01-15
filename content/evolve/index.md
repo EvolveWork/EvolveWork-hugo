@@ -36,6 +36,8 @@ You can rent for a single month, starting on any day. Details [here](https://www
 
 ### Please turn off the heat & lock the door when you leave if no one else is on your side.
 
+### The building's condo rules do not allow bicycles in the building. Please lock up bicycles outside, in the rack.
+
 ## Monthly Memberships Only
 
 Billing is month-to-month, per person. Our minimum is one month (The overhead of
@@ -43,8 +45,7 @@ managing shorter times does not make sense for us). People come in for shorter
 times but they still pay for a month. You can start your membership on any day.
 
 This is a non-traditional space and is predominantly self managed,
-so we don't have a staff person to handle drop-ins. There are several coffee
-shops in town that provide internet if that's all you need. If you want a
+so we don't have a staff person to handle drop-ins. If you want a
 closed space, you might find one of the local hotels will serve your needs.
 
 ## Sound & Phone Use
@@ -78,6 +79,9 @@ calls:
 + A larger training room
 + The balcony
 + The hallway between the two spaces (you can take a chair out there)
+
+NOTE: Sometimes our west-side downstairs neighbor plays his music loud. 
+He said that if this disturbs anyone, feel free to come downstairs and tell him and he'll turn it down.
 
 ## Details
 
