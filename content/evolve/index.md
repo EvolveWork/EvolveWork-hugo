@@ -13,7 +13,8 @@ weight: 10
 Join us in the heart of Crested Butte for a shared work experience. Located on
 Elk Avenue in the midst of restaurants and coffee shops, with a balcony and
 views of the avenue. We provide a quiet environment (headphones suggested) and
-well-behaved dogs are welcome. There are two conference rooms, high-speed fiber
+well-behaved dogs are welcome (dogs cannot be aggressive under any circumstances). 
+There are two conference rooms, high-speed fiber
 wireless, comfortable Aeron-style office chairs, desks and couches.
 
 ## We Only Have Monthly Memberships
@@ -93,7 +94,7 @@ He said that if this disturbs anyone, feel free to come downstairs and tell him 
   phone.
 + For security and safety, the space has recorded video surveilance.
 + Invoicing is automatic and you may set up automatic payments as well.
-+ Well-behaved dogs are welcome.
++ Well-behaved dogs are welcome. ***Dogs cannot be aggressive under any circumstances.***
 + A contract, including a code of conduct, is coming.
 + For internet security, we recommend using a Virtual Private Network (VPN) such as
   <a href="https://protonvpn.com/" target="_blank" rel="noopener noreferrer">Proton VPN</a>.
