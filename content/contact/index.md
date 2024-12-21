@@ -3,7 +3,7 @@ title: Contact Evolve -- A Self-Managed, Monthly-Only, Shared Work Space
 weight: 20
 ---
 
-### We only have monthly memberships. *We don't have a concierge which would be necessary to manage shorter-term visitors*.
+### We only have monthly memberships. *We don't have a concierge which would be necessary to manage shorter-term visitors*
 
 > ***Anyone Entering the Space Must Be Vaccinated***
 
