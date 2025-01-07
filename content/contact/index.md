@@ -9,14 +9,13 @@ weight: 20
 
 > ***Dogs must not be aggressive under any circumstances***
 
-Billing is month-to-month, per person. You are welcome to use the space for
-shorter times but the minimum fee is for one month. (The overhead of managing
-shorter times does not make sense for us). This is a non-traditional co-working
-space and is predominantly self managed, so we don't have a staff person to
-handle drop-ins.
+Billing is month-to-month, per person.
+You may begin any day of the month, and you will be automatically billed on that day each month.
 
-You may begin any day of the month, and you will be automatically billed on that
-day each month.
+You are welcome to use the space for shorter times but the minimum fee is for one month.
+(The overhead of managing shorter times does not make sense for us).
+
+This is a non-traditional co-working space and is predominantly self managed, so we don't have a staff person to handle drop-ins.
 
 There are several coffee shops in town that provide internet if that's all you
 need. If you want a closed space for a short time, you might find one of the
