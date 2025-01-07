@@ -6,7 +6,6 @@ weight: 20
 ### We only have monthly memberships. *We don't have a concierge which would be necessary to manage shorter-term visitors*
 
 > ***Anyone Entering the Space Must Be Vaccinated***
-
 > ***Dogs must not be aggressive under any circumstances***
 
 Billing is month-to-month, per person.
@@ -43,4 +42,4 @@ var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
 while(x=eval(x));
 //-->
 //]]>
-</script> -- Montly Memberships Only
+</script> -- Monthly Memberships Only; Please No Special Requests
