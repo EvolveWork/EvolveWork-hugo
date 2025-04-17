@@ -114,7 +114,7 @@ they will email you back when it's ready.
 If you want a private office with a door that closes, there are three conference rooms
 that are sometimes available for monthly rental:
 
-1. West side corner (two windows). Starting in May-September, $800/month; off-season, $600/month.
+1. ~~West side corner (two windows). Starting in May-September, $800/month; off-season, $600/month~~.
 
 2. West side middle (no windows). 8.5' x 10.5'. Starting in May-September, $600/month; off-season, $400/month.
 
