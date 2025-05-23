@@ -116,9 +116,8 @@ that are sometimes available for monthly rental:
 
 1. ~~West side corner (two windows). Starting in May-September, $800/month; off-season, $600/month~~.
 
-2. West side middle (no windows). 8.5' x 10.5'. Starting in May-September, $600/month; off-season, $400/month.
+2. ~~West side middle (no windows). 8.5' x 10.5'. Starting in May-September, $600/month; off-season, $400/month.~~
 
-3. ~~East side training room (largest, one window). Starting in May-September,
-    $1100/month; off-season, $900/month~~.
+3. ~~East side training room (largest, one window). Starting in May-September, $1100/month; off-season, $900/month~~.
 
 ## [Contact Us](https://www.evolvework.co/contact/)
