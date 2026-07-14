@@ -11,13 +11,13 @@
       </div>
     </div>
 
-    {{ with .Site.Social.twitter }}
+    {{ with .Site.Params.social.twitter }}
     <div class="button button-twitter" role="button" aria-label="Twitter">
        <a href="https://twitter.com/{{ . }}" title="@{{ . }} on Twitter" target="_blank" class="toggle-button icon icon-twitter"></a>
     </div>
     {{ end }}
 
-    {{ with .Site.Social.github }}
+    {{ with .Site.Params.social.github }}
     <div class="button button-github" role="button" aria-label="GitHub">
       <a href="https://github.com/{{ . }}" title="@{{ . }} on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
     </div>

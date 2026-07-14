@@ -1,5 +1,5 @@
 baseurl = "https://www.EvolveWork.co"
-languageCode = "en-us"
+locale = "en-us"
 title = "A Self-Managed, Monthly-Only, Shared Work Space"
 theme = "hugo-material-docs"
 canonifyurls = true
@@ -35,11 +35,10 @@ googleAnalytics = ""
     	text = "Ubuntu"
     	code = "Ubuntu Mono"
 
-
-[social]
-	#twitter = ""
-	#github  = "AtomicKotlin/AtomicKotlin-hugo"
-	email   = "mindviewinc@gmail.com"
+	[params.social]
+		#twitter = ""
+		#github  = "AtomicKotlin/AtomicKotlin-hugo"
+		email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
   name   = "Evolve"
