@@ -2,7 +2,6 @@ baseurl = "https://www.EvolveWork.co"
 languageCode = "en-us"
 title = "A Self-Managed, Monthly-Only, Shared Work Space"
 theme = "hugo-material-docs"
-metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
@@ -57,8 +56,15 @@ googleAnalytics = ""
   url    = "about/"
   weight = 200
 
-[blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
-	plainIDAnchors = true
+# Blackfriday was removed from Hugo in v0.100.0; goldmark (Hugo's current
+# Markdown renderer) handles smart quotes/dashes via the typographer
+# extension by default. `unsafe = true` preserves raw HTML embedded in the
+# markdown content (used on a few pages), and autoHeadingIDType keeps
+# heading anchor IDs generated the old (Blackfriday) way for compatibility
+# with existing links.
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+		[markup.goldmark.parser]
+			autoHeadingIDType = "blackfriday"

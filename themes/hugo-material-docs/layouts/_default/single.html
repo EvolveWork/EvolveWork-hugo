@@ -29,7 +29,7 @@
 				<img src="{{ $.Site.BaseURL }}{{ . }}">
 				</div>
 			{{ end }}
-			<h1 {{ with .Site.Params.palette.h1_ruler_color }}style="border-bottom: 3px solid {{ . }};"{{ end }}>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+			<h1 {{ with .Site.Params.palette.h1_ruler_color }}style="border-bottom: 3px solid {{ . }};"{{ end }}>{{ .Title }} {{ if .Draft }} (Draft){{ end }}</h1>
 
 			{{ .Content }}
 
