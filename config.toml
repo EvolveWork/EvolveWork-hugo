@@ -3,8 +3,11 @@ locale = "en-us"
 title = "A Self-Managed, Monthly-Only, Shared Work Space"
 theme = "hugo-material-docs"
 canonifyurls = true
+
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+[services]
+	[services.googleAnalytics]
+		id = ""
 
 [params]
 	# General information
